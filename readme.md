@@ -28,7 +28,7 @@ IT Engineering student | Backend development · Linux · OMV · Networking
 
 📫 **Reach me:**  
 - Email: pacotorrestatay12@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/francisco-gerardo-torres-tatay-1aa031400/)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/francisco-gerardo-torres-tatay-1aa031400/)
 
 ---
 
@@ -60,4 +60,4 @@ Estudiante de Ingeniería en TI | Desarrollo backend · Linux · OMV · Redes
 
 📫 **Contacto:**  
 - Correo: pacotorrestatay12@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/francisco-gerardo-torres-tatay-1aa031400/)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/francisco-gerardo-torres-tatay-1aa031400/)
