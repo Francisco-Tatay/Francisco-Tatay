@@ -27,7 +27,7 @@ IT Engineering student | Backend development · Linux · OMV · Networking
 - [NAS setup / homelab config](link) (soon)  
 
 📫 **Reach me:**  
-- Email: pacotorrestatay12@gmail.com  
+- [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto: pacotorrestatay12@gmail.com)  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/francisco-gerardo-torres-tatay-1aa031400/)
 
 ---
@@ -59,5 +59,5 @@ Estudiante de Ingeniería en TI | Desarrollo backend · Linux · OMV · Redes
 - [Configuración del NAS / homelab](link) (próximamente)  
 
 📫 **Contacto:**  
-- Correo: pacotorrestatay12@gmail.com  
+- [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto: pacotorrestatay12@gmail.com)  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/francisco-gerardo-torres-tatay-1aa031400/)
