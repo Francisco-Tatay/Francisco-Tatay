@@ -22,8 +22,8 @@ IT Engineering student | Backend development · Linux · OMV · Networking
 📌 **Nationality:** Mexican / Spanish (EU) — eligible to work in Europe without visa.  
 
 🔗 **Pinned projects:**  
-- [School Management System](link) (C#, EF, MariaDB, PDF reports)  
-- [TaskMaster Core API](link) (C#)  
+- [School Management System](https://github.com/Francisco-Tatay/School-Management-System) (C#, EF, MariaDB, PDF reports)  
+- [TaskMaster Core API](https://github.com/Francisco-Tatay/TaskMaster-Core-API) (C#)  
 - [NAS setup / homelab config](link) (soon)  
 
 📫 **Reach me:**  
@@ -54,8 +54,8 @@ Estudiante de Ingeniería en TI | Desarrollo backend · Linux · OMV · Redes
 📌 **Nacionalidad:** Mexicano / Español (UE) — disponible para trabajar en Europa sin visa.  
 
 🔗 **Proyectos destacados:**  
-- [School Management System](link) (C#, EF, MariaDB, reportes PDF)  
-- [TaskMaster Core API](link) (C#)  
+- [School Management System](https://github.com/Francisco-Tatay/School-Management-System) (C#, EF, MariaDB, reportes PDF)  
+- [TaskMaster Core API](https://github.com/Francisco-Tatay/TaskMaster-Core-API) (C#)  
 - [Configuración del NAS / homelab](link) (próximamente)  
 
 📫 **Contacto:**  
