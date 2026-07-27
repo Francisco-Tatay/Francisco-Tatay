@@ -10,7 +10,7 @@ IT Engineering student | Backend development · Linux · OMV · Networking
 - Learning Linux system administration and networking  
 
 ⚙️ **Personal projects I maintain:**  
-- Home NAS with **OpenMediaVault** (Dell Optiplex 960, Core 2 Duo, 4GB RAM)  
+- Home NAS with **OpenMediaVault** (LENOVO THINKPAD T420, INTEL-I5 OF 2nd GENERATION AND 8GB OF RAM)  
 - Services: Samba · Tailscale · SSH · backups  
 - Homelab configs (coming soon)  
 
@@ -42,7 +42,7 @@ Estudiante de Ingeniería en TI | Desarrollo backend · Linux · OMV · Redes
 - Aprendiendo administración de sistemas Linux y redes  
 
 ⚙️ **Proyectos personales que mantengo:**  
-- NAS casero con **OpenMediaVault** (Dell Optiplex 960, Core 2 Duo, 4GB RAM)  
+- NAS casero con **OpenMediaVault** (Lenovo thinkpad t420, con un i5 de 2da y 8gb de ram)  
 - Servicios: Samba · Tailscale · SSH · backups  
 - Configuración del homelab (próximamente)  
 
