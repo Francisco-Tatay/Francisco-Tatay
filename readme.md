@@ -16,7 +16,7 @@ Backend developer focused on building clean, maintainable systems. I enjoy under
 🌱 &nbsp;I'm currently learning **TypeScript with Bun, cloud fundamentals (AWS/Azure), and improving my DevOps workflow**  
 👯 &nbsp;I'm looking to collaborate on **Open-source projects related to backend development or system administration.**  
 🤔 &nbsp;I'm looking for help with **Understanding best practices for scalable architectures and clean code.**  
-💬 &nbsp;Ask me about **Linux, self-hosting, MQTT, or why I think a ThinkPad is the best laptop ever.**  
+💬 &nbsp;Ask me about **Linux, self-hosting, or why I think a ThinkPad is the best laptop ever.**  
 ⚡ &nbsp;Fun fact: **I once revived a 2008 desktop and turned it into a home server that still runs 24/7.**
 
 ### 🛠️ Tech Stack
